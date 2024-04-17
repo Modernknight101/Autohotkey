@@ -1542,11 +1542,11 @@ If (InStr(Edit1, ".") > 0)
 		<br>
 	
 		 
-		<br>Joshua E Parkhurst – Accounting Technician III, Payroll
-		<br>Colorado School for the Deaf and the Blind
-		<br>33 North Institute Street, Colorado Springs, CO 80903
-		<br>719-578-2111; jparkhurst@csdb.org
-		<br>Check out our new website design at www.csdb.org
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
 		</html>"
 		;***********************************************
 
@@ -1590,11 +1590,11 @@ If (InStr(Edit2, ".") > 0)
 		<br>
 	
 		 
-		<br>Joshua E Parkhurst – Accounting Technician III, Payroll
-		<br>Colorado School for the Deaf and the Blind
-		<br>33 North Institute Street, Colorado Springs, CO 80903
-		<br>719-578-2111; jparkhurst@csdb.org
-		<br>Check out our new website design at www.csdb.org
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
 		</html>"
 		;***********************************************
 
@@ -1637,11 +1637,11 @@ If (InStr(Edit3, ".") > 0)
 		<br> Thank you<br>
 		<br>
 		 
-		<br>Joshua E Parkhurst – Accounting Technician III, Payroll
-		<br>Colorado School for the Deaf and the Blind
-		<br>33 North Institute Street, Colorado Springs, CO 80903
-		<br>719-578-2111; jparkhurst@csdb.org
-		<br>Check out our new website design at www.csdb.org
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
 		</html>"
 		;***********************************************
 
@@ -1684,11 +1684,11 @@ If (InStr(Edit4, ".") > 0)
 		<br> Thank you<br>
 		<br>
 		 
-		<br>Joshua E Parkhurst – Accounting Technician III, Payroll
-		<br>Colorado School for the Deaf and the Blind
-		<br>33 North Institute Street, Colorado Springs, CO 80903
-		<br>719-578-2111; jparkhurst@csdb.org
-		<br>Check out our new website design at www.csdb.org
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
 		</html>"
 		;***********************************************
 
@@ -1731,11 +1731,11 @@ If (InStr(Edit5, ".") > 0)
 		<br> Thank you<br>
 		<br>
 		 
-		<br>Joshua E Parkhurst – Accounting Technician III, Payroll
-		<br>Colorado School for the Deaf and the Blind
-		<br>33 North Institute Street, Colorado Springs, CO 80903
-		<br>719-578-2111; jparkhurst@csdb.org
-		<br>Check out our new website design at www.csdb.org
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
+		<br>Insert signature here
 		</html>"
 		;***********************************************
 
